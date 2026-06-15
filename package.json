@@ -1,0 +1,16 @@
+{
+  "name": "bot-wa-zyy-cyber",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Terkeren by ZYY-CYBER",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.23",
+    "@hapi/boom": "^10.0.1",
+    "node-fetch": "^2.7.0",
+    "pino": "^9.0.0"
+  }
+}
